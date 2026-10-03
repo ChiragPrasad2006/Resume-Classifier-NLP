@@ -218,3 +218,6 @@ __marimo__/
 .streamlit/secrets.toml
 
 /data
+/longformer_model_accuracy_tuning
+/longformer_model_final
+/longformer_model_further_training
